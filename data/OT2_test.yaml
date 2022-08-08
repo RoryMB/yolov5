@@ -1,0 +1,7 @@
+path: ../UnityPerceptionData
+train: OT2_1/images
+val: OT2_1/images
+test:
+
+nc: 1
+names: ['pipette']
